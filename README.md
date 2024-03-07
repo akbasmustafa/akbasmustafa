@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello, I'm Mustafa Akbas 👋
 
-<!--
-**akbasmustafa/akbasmustafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Developer and React Native Specialist with a strong background in TypeScript, Node.js, and GraphQL. I'm passionate about building high-quality software and always eager to learn new technologies and improve my skills.
 
-Here are some ideas to get you started:
+## 🛠️ My Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Mobile App Development**: React Native
+- **Frontend Development**: JavaScript (ES6+), TypeScript, React.js
+- **Backend Development**: Node.js, Express.js, GraphQL, Nestjs
+- **Databases**: PostgreSQL
+- **Version Control**: Git, GitHub
+
+## 🌱 I’m currently learning
+
+I'm currently focusing on expanding my knowledge in Python and Machine Learning. 
+
+## 📫 How to reach me
+
+You can reach me at mustafa.akbas@outlook.com. I'm always open to discussing new project ideas, collaborations, or just general tech chat.
+
+## 💼 Open for Work
+
+I'm currently open for new opportunities, whether it's projects, collaborations or job offers. Feel free to contact me if you think we could work together.
+
